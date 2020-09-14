@@ -1,5 +1,5 @@
 # CHIMP
-aka CHIMP is a compilation of seismic intensity observations from moderate to large earthquakes over the past 162 years in California.
+The California Historical Intensity Mapping Project aka CHIMP is a compilation of seismic intensity observations from moderate to large earthquakes over the past 162 years in California.
 
 The ‘repository’ contains full felt reports and MMI assignments for earthquakes that were reinterpreted for this study.
 
