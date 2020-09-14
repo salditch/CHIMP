@@ -1,0 +1,27 @@
+original file names for DYFI 
+
+2019a: cdi_geo_1km.txt
+2019b: cdi_geo_1km.txt
+2014: DYFI intensity summary geocoded (1km spacing).txt
+2010: DYFI intensity summary geocoded (1km spacing).txt
+2009: DYFI intensity summary geocoded (10km spacing).txt
+2008a: DYFI intensity summary geocoded (1km spacing).txt
+2008b: DYFI intensity summary geocoded (1km spacing).txt
+2007: DYFI intensity summary geocoded (1km spacing).txt
+2005a: DYFI intensity summary geocoded (10km spacing).txt
+2005b: DYFI intensity summary geocoded (10km spacing).txt
+2004: DYFI intensity summary geocoded (10km spacing).txt
+2003: DYFI intensity summary geocoded (10km spacing).txt
+2001: DYFI intensity summary geocoded (10km spacing).txt
+2000: DYFI intensity summary geocoded (10km spacing).txt
+1999: DYFI intensity summary geocoded (10km spacing).txt
+1994: DYFI intensity summary geocoded (10km spacing).txt
+1992b: DYFI intensity summary geocoded (1km spacing).txt
+1992c: DYFI intensity summary aggregated by city or zip code.txt
+1992d: DYFI intensity summary geocoded (1km spacing).txt
+1991: DYFI intensity summary geocoded (1km spacing).txt
+1989: DYFI intensity summary geocoded (1km spacing).txt
+1986a: DYFI intensity summary (city or zip code aggregated).txt
+1983: DYFI intensity summary geocoded UTM aggregated (1km spacing).txt
+1979: DYFI intensity summary geocoded UTM aggregated (1km spacing).txt
+1971: DYFI intensity summary geocoded UTM aggregated (10km spacing).txt

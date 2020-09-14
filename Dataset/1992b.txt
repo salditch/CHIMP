@@ -1,0 +1,2 @@
+# Columns: Geocoded box,CDI,No. of responses,Hypocentral distance,Latitude,Longitude,Suspect?,City,State
+"UTM:(10T 0408 4525 1000)",7.7,1,61,40.8755,-124.0859,0,"UTM:(10T 0408 4525 1000)",""
